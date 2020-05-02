@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\AF\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#2a6ae2ab",
+        "editor.selectionHighlightBackground": "#2a6ae2"
+    },
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+}
