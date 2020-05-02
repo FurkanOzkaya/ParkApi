@@ -9,6 +9,3 @@ class ParkModel(models.Model):
     class Meta:
         verbose_name = "ParkModel"
         verbose_name_plural = "ParkModels"
-
-    def __str__(self):
-        return self.name
