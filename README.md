@@ -5,7 +5,7 @@
 ## APIs List
 
 - admin
-- get_spesific_park_area/<pk>
+- get_spesific_park_areas/<pk>
 - add_park_areas
 - display_close_areas
 - delete_areas/<pk>
@@ -14,13 +14,12 @@
 ## API's Details
 
 ------------
-### 1. get_spesific_park_area/{AreaId}
+### 1. get_spesific_park_areas/{AreaId}
   
 This end point return information about specific park area.
   
-Request Type: POST<br>
+Request Type: GET<br>
 Return Codes: 200, 204<br>
-Parameters: Id of cerated areas<br>
 Response Type: JSON<br>
 
 ### return output example:
